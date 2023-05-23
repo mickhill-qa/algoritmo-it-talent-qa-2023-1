@@ -1,0 +1,1 @@
+# algoritmo-it-talent-qa-2023-1
