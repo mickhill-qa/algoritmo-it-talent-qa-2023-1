@@ -2,7 +2,7 @@ algoritmo "Ola mundo"
 
 var
 
-teste: caractere
+
 
 inicio
 
