@@ -1,4 +1,4 @@
-algoritmo "Nome do Programa"
+algoritmo "Atividade 1"
 // Disciplina  :  Quality Assurance
 // Professor   : Mick Hill
 // Descrição   : O programa faz mostra "Olá, Mundo!"
