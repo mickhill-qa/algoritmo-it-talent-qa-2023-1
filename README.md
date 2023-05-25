@@ -3,3 +3,4 @@
 ### Excercicio pratico
 
 - Faca um "Ola mundo!" em portugol;
+- Faca uma calculadora simple;
