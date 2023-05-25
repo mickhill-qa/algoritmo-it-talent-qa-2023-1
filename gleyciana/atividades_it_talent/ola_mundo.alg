@@ -5,8 +5,6 @@ var
 
 inicio
 
-escreva("Olá Mundo")
-
-
+Escreva("Olá Mundo!")
 
 fimalgoritmo
