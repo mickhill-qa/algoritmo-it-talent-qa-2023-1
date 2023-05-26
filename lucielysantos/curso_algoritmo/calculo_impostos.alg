@@ -13,5 +13,5 @@ inicio
 
     imposto <- (preco*taxa_imposto)/100
 
-    escreval("O valor do imposto é"+ imposto +"R$.")
+    escreval("O valor do imposto é "+ imposto +"R$.")
 fimalgoritmo
