@@ -40,6 +40,7 @@
 ---
 #### Gabriela
 - [Faca um "Ola mundo!" em portugol;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/7)
+- [Faca uma calculadora simple;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/34)
 
 ---
 #### Gleyciana
