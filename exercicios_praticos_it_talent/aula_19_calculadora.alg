@@ -1,6 +1,7 @@
 algoritmo "calculadora"
 
 var
+
 x,y,a: inteiro
 
 inicio
