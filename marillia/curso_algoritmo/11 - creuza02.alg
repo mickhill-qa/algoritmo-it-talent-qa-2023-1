@@ -7,5 +7,5 @@ inicio
     escreval("Quantos reais eu tenho? R$")
     leia(reais)
     dolares <- reais/4.95
-    escreva("Posso ter US$", dolares)
+    escreva("Posso ter US$", dolares:4:2)
 fimalgoritmo
