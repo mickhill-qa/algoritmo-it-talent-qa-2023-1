@@ -23,10 +23,10 @@ msg: caractere
 inicio
 
 escreval("Olá, mundo!") //escreval escreve e pula linha.
-escreval("Me livrei da maldição") //escreva apenas escreve na linha.
+escreval("Me livrei da maldição") //escreval escreve e pula linha.
 msg <- "Olá, mundo" //atribuição de variável 
 escreval(msg)  // uso da variável msg
-escreval("Mensagem: ", msg) // segundo tipo de uso da variável com mensagem
+escreva("Mensagem: ", msg) //apenas escreve na linha, segundo tipo de uso da variável com mensagem
 
 
 fimalgoritmo
