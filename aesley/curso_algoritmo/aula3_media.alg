@@ -1,4 +1,4 @@
-algoritmo "Média de numeros"
+algoritmo "Média de números"
 // Disciplina  : [Linguagem e Lógica de Programação]
 // Professor   : [Gustavo Guanabara]
 // Conteúdo    : [Comando de Entrada e Operadores]
