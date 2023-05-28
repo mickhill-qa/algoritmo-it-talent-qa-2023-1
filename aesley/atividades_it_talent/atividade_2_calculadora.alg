@@ -1,4 +1,4 @@
-algoritmo "Nome do Programa"
+algoritmo "Calculadora que soma dois números"
 var
 x, y, z :inteiro
 
