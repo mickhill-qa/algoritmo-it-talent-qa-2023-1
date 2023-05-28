@@ -21,6 +21,3 @@ inicio
   Escreval("Valor de cada parcela: R$", valorParcela)
   
 fimalgoritmo
-  
-
-fimalgoritmo
