@@ -1,31 +1,26 @@
 algoritmo "Entre0e10"
 
 var
-   contador, numero, quantidadeNumeros, quantidadeInvalidos: inteiro
+   contador, numero, quantidadeEntre0e10, somaImpares: inteiro
 
 inicio
-   quantidadeNumeros <- 0
-   quantidadeInvalidos <- 0
-
-   EscrevaL("Digite quatro números:")
+   quantidadeEntre0e10 <- 0
+   somaImpares <- 0
 
    Para contador de 1 ate 4 faca
-      Escreva("Número ", contador, ": ")
+      Escreva("Digite um número: ")
       Leia(numero)
 
-      Se numero >= 0 e numero <= 10 entao
-         EscrevaL("O número ", numero, " está entre 0 e 10")
-         quantidadeNumeros <- quantidadeNumeros + 1
-      Senao
-         EscrevaL("O número ", numero, " não está entre 0 e 10")
-         quantidadeInvalidos <- quantidadeInvalidos + 1
+      Se (numero >= 0) e (numero <= 10) entao
+         quantidadeEntre0e10 <- quantidadeEntre0e10 + 1
+      FimSe
+
+      Se (numero % 2 <> 0) entao
+         somaImpares <- somaImpares + numero
       FimSe
    FimPara
 
-   EscrevaL("Ao todo, ", quantidadeNumeros, " número(s) está(ão) entre 0 e 10")
-   EscrevaL("Foram informados ", quantidadeInvalidos, " número(s) fora do intervalo")
+   EscrevaL("Quantidade de números entre 0 e 10: ", quantidadeEntre0e10)
+   EscrevaL("Soma dos números ímpares: ", somaImpares)
 
 fimalgoritmo
-
-
-
