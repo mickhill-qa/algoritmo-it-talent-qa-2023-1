@@ -4,6 +4,7 @@ var
 
     contador, contador1, contador2, valor: inteiro
      salto, contador3, n, s, maior, menor: inteiro
+     leiturainicial: logico
 
 inicio
 
@@ -39,20 +40,26 @@ inicio
 
     contador3 <- 0
     s <- 0
+    leiturainicial <- verdadeiro
     enquanto (contador3 <= 5) faca
         escreval("Digite o ", contador3, "o. valor : ")
         leia(n)
+        se (leiturainicial = verdadeiro) entao
+            maior <-n
+            menor <-n
+        fimse
+        leiturainicial <- falso
+
         se (n > maior) entao
             maior <- n
         fimse
-        se (verdadeiro) entao
-            escreval ("true")
-        senao
-            escreval ("false")
+        se (n < menor) entao
+            menor <- n
         fimse
         s <- s + n
        contador3 <- contador3 + salto
     fimenquanto
     escreval("A soma dos valores sao: ", s)
     escreval("Maior numero digitado: ", maior)
+    escreval("Menor numero digitado: ", menor)
 fimalgoritmo
