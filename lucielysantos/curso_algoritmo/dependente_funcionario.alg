@@ -26,5 +26,5 @@ outrocaso
     nsal <- sal + (sal*18/100)
 fimescolha
 
-escreval("O novo salário é"+nsal+" R$.")
+escreval("O novo salário é "+nsal+" R$.")
 fimalgoritmo
