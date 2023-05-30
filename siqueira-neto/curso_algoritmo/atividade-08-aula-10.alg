@@ -8,15 +8,15 @@ inicio
 
     s <- 0
     
-    resp <- "s"
-    enquanto (resp = "s") faca
-        escreval ("Digite  valor ==> ")
+    
+    repita
+        escreval("Digite o valor ==> ")
         leia(n)
         s <- s + n
 
-       escreval("Voce quer continuar? [S/N]")
+        escreval("Voce quer continuar? [S/N]")
          leia(resp)
-    fimenquanto
+    ate (resp = "N") 
 
     escreval("A soma de todos os valores digitados e ", s)
 fimalgoritmo
