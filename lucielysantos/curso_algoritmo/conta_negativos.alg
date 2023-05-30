@@ -7,7 +7,6 @@ n, c, totn :  inteiro
 inicio
 
 c <- 0
-totn <- 0
 repita
     escreval("Digite um número:")
     leia(n)
