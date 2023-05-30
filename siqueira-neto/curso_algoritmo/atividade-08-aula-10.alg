@@ -1,4 +1,4 @@
-algoritmo "Atividade 7.04"
+algoritmo "Atividade 8"
 
 var
 
