@@ -26,7 +26,7 @@ inicio
       Se (sexo = "F") e ((idade >= 25) e (idade <= 30)) e (cabelo = 3) entao
          TotM25 <- TotM25 + 1
       fimse
-      escreva("Quer continuar? [S/N] ")
+      escreval("Quer continuar? [S/N] ")
       leia(resp)
    ate (resp = "N")
 
