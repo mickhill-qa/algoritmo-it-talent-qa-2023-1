@@ -1,4 +1,4 @@
-algoritmo "Esta Apto a Digigir"
+algoritmo "Esta Apto a Dirigir"
 
 var
 
@@ -18,11 +18,9 @@ inicio
     se (idade > 18) entao
         escreval(" IDADE: ",idade," ANOS")
         escreval(" APTO A TIRAR CARTEIRA")
-        escreval("------------------------")
     senao
         escreval(" IDADE: ",idade," ANOS")
         escreval(" iNAPTO A TIRAR CARTEIRA")
-        escreval("------------------------")
     fimse
-
+    escreval("------------------------")
 fimalgoritmo

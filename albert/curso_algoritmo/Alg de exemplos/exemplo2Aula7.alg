@@ -1,17 +1,20 @@
-algoritmo "ParOuImpar"
+algoritmo "Nome do Programa"
 
 var
 
-    N: inteiro
+    M,A,IMC : Real
 
 inicio
-
-    escreval("Digite um numero  qualquer: ")
-    leia(N)
-    Se (N % 2 = 0) entao
-        escreval("O numero ", N, " e Par")
+ 
+    escreval("Massa (KG): ")
+    leia(M)
+    escreval("Altura (m): ")
+    leia(A)
+    IMC <- M/(A^2)
+    escreval("IMC: ",IMC:5:2)
+    se (IMC>=18.5) e (IMC<25) entao
+        escreval ("Parabens! VOce esta no seu peso ideal")
     senao
-        escreval("O numero", N, " e IMPAR")
-    Fimse
-
+        escreval ("Voce nao esta na faixa de peso ideal")
+    fimse
 fimalgoritmo

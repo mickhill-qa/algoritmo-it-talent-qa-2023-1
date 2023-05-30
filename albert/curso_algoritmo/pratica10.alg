@@ -16,7 +16,7 @@ inicio
     escreval("--------------------------")
     M <- (N1 + N2)/2
     escreval(" MEDIA: ",M:5:1)
-    se (M > 7) entao
+    se (M >= 7) entao
         escreval (" ALUNO APROVADO")
     senao
         escreval (" ALUNO REPROVADO")
