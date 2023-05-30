@@ -1,21 +1,18 @@
-Algoritmo "9.9.ESTRUTURAS.DE.REPETIÇÃO.NOVO.CONVERSOR.DE.MOEDAS"
+Algoritmo "Creuza-converter-moeda"
 
 // Autor(a)    : Yuri Carvalho Teixeira
-// Data atual  : 29/05/2023
+// Data atual  : 27/05/2023
 Var
-   moeda_real, dolar, i: real
+   moeda_real, dolar: real
 
 
 
 Inicio
-   i<- 1
-   enquanto (i <= 4) faca
-      i<- i+1
       escreval("Informe o valor em real:")
       leia(moeda_real)
       dolar<- moeda_real / 4.99
-      escreval("Valor em dolares: ",dolar:6:2)
-   fimenquanto
+      escreva("Valor em dolares: ",dolar)
+
 
 
 Fimalgoritmo
