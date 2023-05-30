@@ -20,4 +20,10 @@ inicio
        c <- c +1
     ate (c > n)
     escreval("Quantos numeros divididos: ", cont)
+
+    se (cont > 2) entao
+        escreval ("O valor ", n, " nao e primo!")
+    senao
+        escreval ("O valor ", n, " e primo!")
+    fimse
 fimalgoritmo
