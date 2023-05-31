@@ -3,19 +3,20 @@ algoritmo "SomaParametrosReferencia"
 
 var
   X, Y: Inteiro
+
 Procedimento Soma ()
-var A, B: Inteiro
 inicio
-   A <- A + 1
-   B <- B + 2
-   escreval("Valor de A = ", A)
-   escreval("Valor de B = ", B)
-   escreval("Soma A + B = ", A+B)
+   X <- X + 1
+   Y <- Y + 2
+   escreval("Valor de A = ", X)
+   escreval("Valor de B = ", Y)
+   escreval("Soma A + B = ", X+Y)
 FimProcedimento
+
 inicio
    X <- 4
    Y <- 8
-   Soma (X, Y)
+   Soma ()
    escreval("Valor de X = ", X)
    escreval("Valor de Y = ", Y)
 fimalgoritmo
