@@ -2,20 +2,24 @@ algoritmo "Fibonacci"
 
     funcao fibonacci(n: inteiro): inteiro
     var
-        fx: vetor[1..1000] de inteiro
-        i: inteiro
+        s: vetor[1..13] de inteiro
+        i, t3, t2, t1: inteiro
     inicio
-        fx[0] <- 0
-        fx[1] <- 1
         
-        se (n >= 2) entao
-            para i de 2 ate n faca
-                fx[i] <- fx[i-1] + fx[i-2]
-            fimpara
-            
-        fimse 
-       
-        retorne fx[n]
+        s [0] <- 0
+        s [1] <- 1
+        t1 <- 0
+        t2 <- 1
+        
+        Para i de 2 ate 13 faca
+            t3 <- t1+t2
+            s[i] <- t3
+            t1 <- t2
+            t2 <- t3
+        FimPara
+        
+          
+        retorne s[n]
 
     fimfuncao
 
