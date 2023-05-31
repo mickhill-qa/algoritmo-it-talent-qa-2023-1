@@ -1,25 +1,20 @@
 algoritmo "Fibonacci"
 
     funcao fibonacci(n: inteiro): inteiro
-   var
-        fx: vetor[1..1000] de inteiro
-        cont: inteiro
     inicio
-        fx[0] <- 0
-        fx[1] <- 1
-        
-        se (n >= 2) entao
-            para cont de 2 ate n faca
-                fx[cont] <- fx[cont-1] + fx[cont-2]
-            fimpara        
-        fimse 
-              
-        retorne fx[n]
+        se (n = 0)entao
+            retorne 0
+        senao
+            se (n = 1) entao
+                retorne 1
+            senao
+                retorne fibonacci(n -1) + fibonacci(n -2)
+            fimse
+        fimse
     fimfuncao
 
-var
-
 inicio
+
     escreval("0º  : fib ", fibonacci(0) ,"       ->  ", (fibonacci(0) = 0))
     escreval("1º  : fib ", fibonacci(1) ,"       ->  ", (fibonacci(1) = 1))
     escreval("2º  : fib ", fibonacci(2) ,"       ->  ", (fibonacci(2) = 1))
