@@ -1,4 +1,4 @@
-algoritmo "Super Contador"
+algoritmo "Escolhendo pessoas"
 
 var
 
