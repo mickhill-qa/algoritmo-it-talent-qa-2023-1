@@ -22,6 +22,8 @@
 ---
 ### Anne
 - Excercicios praticos
+    1. [Faca um "Ola mundo!" em portugol;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/13)
+
 - Desafios praticos
 
 
