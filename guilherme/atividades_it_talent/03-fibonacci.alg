@@ -37,18 +37,3 @@ inicio
     escreval("12º : fib ", fibonacci(12) ,"      ->  ", (fibonacci(12) = 144))
 
 fimalgoritmo
-
-// funcao fibonacci(n: inteiro): inteiro
-//     var
-//         fx: vetor[1..200] de inteiro
-//         i: inteiro
-//     inicio
-//         fx[0] <- 0
-//         fx[1] <- 1
-//         se n >= 2 entao
-//             para i de 2 ate n faca
-//                 fx[i] <- fx[i-1] + fx[i-2]
-//             fimpara
-//         fimse
-//         retorne fx[n]
-//     fimfuncao
