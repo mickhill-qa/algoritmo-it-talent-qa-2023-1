@@ -7,7 +7,7 @@ var
 
 procedimento fibo(pri,seg,soma: inteiro)
   inicio
-  pri <- 0
+    pri <- 0
     seg <- 1
     escreva(pri," ")
     escreva(seg," ")
