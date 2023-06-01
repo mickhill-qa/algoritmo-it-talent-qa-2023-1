@@ -4,6 +4,6 @@ var
 
 
 inicio
-    escreva("Olá, mundo!")
+
 
 fimalgoritmo

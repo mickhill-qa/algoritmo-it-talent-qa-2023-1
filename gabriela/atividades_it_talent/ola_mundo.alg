@@ -1,9 +1,9 @@
 algoritmo "Ola Mundo!"
 
 var
-
+    texto: caractere
 
 inicio
-    escreva("Ol√°, mundo!")
+      Escreva ("Ol· mundo")
 
 fimalgoritmo
