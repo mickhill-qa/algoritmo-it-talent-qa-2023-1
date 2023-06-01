@@ -99,6 +99,7 @@
 ### Guilherme
 - Excercicios praticos
     1. [Faca um "Ola mundo!" em portugol;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/11)
+
 - Desafios praticos
 
 
@@ -136,6 +137,8 @@
 ---
 ### Luciely
 - Excercicios praticos
+    1. [Faca um "Ola mundo!" em portugol;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/19)
+
 - Desafios praticos
 
 
