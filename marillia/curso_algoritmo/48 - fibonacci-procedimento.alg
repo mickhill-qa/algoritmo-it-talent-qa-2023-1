@@ -1,0 +1,25 @@
+algoritmo "FibonacciProcedimento"
+
+
+var 
+    I, T1, T2, T3: Inteiro
+
+// Procedimentos
+procedimento ProximoFibonacci()
+
+inicio
+   T3 <- T1 + T2
+   escreval(T3," ")
+   T1 <- T2
+   T2 <- T3
+fimprocedimento
+
+inicio
+    T1 <- 0
+    escreval(T1, " ")
+    T2 <- 1
+    escreval(T2, " ")
+    para I de 3 ate 15 faca
+        ProximoFibonacci()
+    fimpara
+fimalgoritmo
