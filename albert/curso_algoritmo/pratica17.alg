@@ -5,8 +5,9 @@ var
 
   pri, seg,soma,i: inteiro  
 
-inicio
-    pri <- 0
+procedimento fibo(pri,seg,soma: inteiro)
+  inicio
+  pri <- 0
     seg <- 1
     escreva(pri," ")
     escreva(seg," ")
@@ -16,5 +17,8 @@ inicio
         pri <- seg
         seg <- soma 
     fimpara
+fimprocedimento
 
+inicio
+    fibo(pri,seg,soma)
 fimalgoritmo
