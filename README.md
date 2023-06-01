@@ -29,5 +29,4 @@ git checkout -b feature/<demanda-atual>
 1. Fazer todas as atividades do curso do guanabara separando-as por commit e entregar com um pull-request;
 1. Fazer a funcao de Fibonacci e todos os testes ok até sexta antes da mentoria;
 
-
 #### [Resumo das Correcoes.](correcoes_das_atividade.md)
