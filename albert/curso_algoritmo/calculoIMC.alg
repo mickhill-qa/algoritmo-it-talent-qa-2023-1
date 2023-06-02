@@ -1,5 +1,5 @@
 algoritmo "Calculo IMC"
-// Estruturas condicionais aninhadas
+// referente ao exemplo feito na aula 7 e continuado na aula 8
 
 var
     M, A, IMC: real
