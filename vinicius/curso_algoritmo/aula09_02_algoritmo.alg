@@ -2,7 +2,7 @@ algoritmo "Aula 09"
 
 var
    
-   alor, salto, contador: inteiro
+   valor, salto, contador: inteiro
 
 inicio
     
@@ -16,5 +16,5 @@ inicio
         contador <- contador + salto
     fimenquanto
     escreval("Terminei de contar")
-    
+
 fimalgoritmo
