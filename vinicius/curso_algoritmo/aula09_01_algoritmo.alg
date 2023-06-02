@@ -8,4 +8,5 @@ inicio
         contador <- contador - 2
     fimenquanto
     escreval("Terminei de contar")
+    
 fimalgoritmo
