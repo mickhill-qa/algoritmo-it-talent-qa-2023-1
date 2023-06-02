@@ -1,4 +1,4 @@
-algoritmo "Atividade 11.1"
+algoritmo "Atividade 53"
 
 var
   n, f: inteiro
