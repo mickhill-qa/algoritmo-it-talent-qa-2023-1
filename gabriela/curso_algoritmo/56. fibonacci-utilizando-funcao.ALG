@@ -1,4 +1,4 @@
-algoritmo "Fibonacci usando função"
+algoritmo "Fibonacci usando funï¿½ï¿½o"
 
 Funcao ProximoFibonacci(var N1, N2: Inteiro): Inteiro
 Var
@@ -15,11 +15,11 @@ var
   
 inicio
    T1 <- 0
-   EscrevaL(T1)
+   Escreval(T1)
    T2 <- 1
-   EscrevaL(T2)
+   Escreval(T2)
    Para I <- 3 ate 5 faca
        T3 <- ProximoFibonacci(T1, T2)
-       EscrevaL(T3)
+       Escreval(T3)
    FimPara
 fimalgoritmo

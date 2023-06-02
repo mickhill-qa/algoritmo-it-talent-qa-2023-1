@@ -1,4 +1,4 @@
-algoritmo "Fatorial de um número - Função"
+algoritmo "Fatorial de um nï¿½mero - Funï¿½ï¿½o"
 
 Funcao Fatorial(V: Inteiro):Inteiro
 Var
@@ -15,9 +15,9 @@ var
   n, f: Inteiro
   
 inicio
-   Escreva("Digite um numero: ")
+   Escreval("Digite um numero: ")
    Leia(n)
    f <- Fatorial(n)
-   EscrevaL("O valor de ", n, "! e igual a ", f)
+   Escreval("O valor de ", n, "! e igual a ", f)
 fimalgoritmo
 

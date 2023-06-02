@@ -1,4 +1,4 @@
-algoritmo "Par ou impar função"
+algoritmo "Par ou impar funï¿½ï¿½o"
 
 var
   N: Inteiro
