@@ -1,4 +1,4 @@
-algoritmo "ESCOLHENDO PESSOAS"
+algoritmo "Escolhendo Pessoas"
 
 var
 
