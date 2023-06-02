@@ -6,7 +6,7 @@ var
     m: Real
 
 inicio
-
+    //testado
     escreval("Digite um numero")
     leia(n1)
     escreval("Digite outro numero")
