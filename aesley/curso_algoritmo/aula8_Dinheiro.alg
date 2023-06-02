@@ -22,7 +22,7 @@ senao
     se ((dinheiro >= 5000) e (dinheiro < 10000)) entao
         escreval ("Visitar familia")
     senao
-        escreval ("#Chateado")
+        escreval ("#Chateadão")
     fimse
 fimse
 
