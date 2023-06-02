@@ -1,14 +1,18 @@
 algoritmo "Fibonacci"
 
-    funcao fibonacci(n: inteiro): inteiro
-    var
+    funcao fibonacci(x: inteiro): inteiro
     inicio
-        // Escreva aqui!
-        retorne n
+        se (x = 0)entao
+          retorne 0
+        senao
+            se (x = 1) entao
+             retorne 1
+            senao
+             retorne fibonacci(x -1) + fibonacci(n -2)
+            fimse
+        fimse
     fimfuncao
-
-var
-
+    
 inicio
     escreval("0º  : fib ", fibonacci(0) ,"       ->  ", (fibonacci(0) = 0))
     escreval("1º  : fib ", fibonacci(1) ,"       ->  ", (fibonacci(1) = 1))
