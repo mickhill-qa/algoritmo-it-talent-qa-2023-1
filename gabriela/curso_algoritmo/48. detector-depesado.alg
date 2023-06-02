@@ -1,4 +1,4 @@
-Algoritmo "fibonacci"
+Algoritmo "Detector pesado"
 
 var
   i: Inteiro
