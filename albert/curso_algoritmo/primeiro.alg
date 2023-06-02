@@ -1,11 +1,10 @@
 algoritmo "Primeiro"
 
 var
-
+    msg: caractere
 
 inicio
-
-    escreval("Ola, mundo")
-    escreval("Me livrei da maldicao")
+    msg <- "Ola, Mundo!"
+    escreval("Mensagem ",msg)
 
 fimalgoritmo
