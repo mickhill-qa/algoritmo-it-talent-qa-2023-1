@@ -1,4 +1,4 @@
-algoritmo "Exponencial"
+algoritmo "Atividade 5.02"
 
 var
   A : Real

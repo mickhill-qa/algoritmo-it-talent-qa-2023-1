@@ -1,4 +1,4 @@
-algoritmo "VRaiz Quadrada"
+algoritmo "Atividade 5.03"
 
 var
   A : Real

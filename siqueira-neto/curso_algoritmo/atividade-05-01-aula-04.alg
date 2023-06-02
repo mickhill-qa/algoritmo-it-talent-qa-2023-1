@@ -1,4 +1,4 @@
-algoritmo "Valor Absoluto"
+algoritmo "Atividade 05.1"
 
 var
   A : Inteiro

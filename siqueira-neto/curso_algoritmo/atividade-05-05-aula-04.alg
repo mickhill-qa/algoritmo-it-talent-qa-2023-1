@@ -1,4 +1,4 @@
-algoritmo "Conversor"
+algoritmo "Atividade 5.5"
 
 var
   angulo, s : Real

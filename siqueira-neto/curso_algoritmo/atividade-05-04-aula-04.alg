@@ -1,4 +1,4 @@
-algoritmo "GraupRad"
+algoritmo "Atividade 5.04"
 
 var
   A : Real
