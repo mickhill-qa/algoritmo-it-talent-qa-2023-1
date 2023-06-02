@@ -1,5 +1,4 @@
 algoritmo "Dissecando matrizes"
-// Matrizes
 
 var
   m: vetor[1..4, 1..4] de Inteiro
@@ -8,22 +7,22 @@ var
 inicio
    Para a <- 1 ate 4 faca
       Para c <- 1 ate 4 faca
-          escreva("Digite valor para a posiÇão [", a, ",", c, "]: ")
+          escreva("Digite valor para a posiï¿½ï¿½o [", a, ",", c, "]: ")
           Leia(m[a,c])
       FimPara
    FimPara
    LimpaTela
    Repita
       escreval()
-      escreval("MENU DE OPÇÕOES")
+      escreval("MENU DE OPï¿½ï¿½OES")
       escreval("========================")
       escreval("[1] Mostrar a matriz")
       escreval("[2] Diagonal principal")
-      escreval("[3] Triângulo superior")
-      escreval("[4] Triângulo inferior")
+      escreval("[3] Triï¿½ngulo superior")
+      escreval("[4] Triï¿½ngulo inferior")
       escreval("[5] Sair")
       Repita
-         escreval("===== OPÇÃO: ")
+         escreval("===== OPï¿½ï¿½O: ")
          Leia(n)
       Ate (n >=1) e (n <=5)
       LimpaTela
