@@ -10,7 +10,13 @@ Inicio
    escreval("Informe os valores da matriz: ")
    para linha de 1 ate 3 faca
       para coluna de 1 ate 2 faca
-         leia(mat[l,c])
+         leia(mat[linha, coluna])
       fimpara
+   fimpara
+   para linha de 1 ate 3 faca
+      para coluna de 1 ate 2 faca
+         escreva(mat[linha, coluna])
+      fimpara
+      escreval()
    fimpara
 Fimalgoritmo
