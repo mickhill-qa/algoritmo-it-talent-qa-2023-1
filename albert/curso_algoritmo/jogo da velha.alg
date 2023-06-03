@@ -1,9 +1,5 @@
 Algoritmo "JogodaVelha"
-// Criado por Vanderlei
-// Desafio do curso de Algoritmos do Curso em Video
-// Ainda esxistem alguns erros que tentarei consertar assim que possível
-// Finalizado 22/10/2015
-// Linguagem : VisualG
+
 Var
    l, c : inteiro //variaveis de linha e coluna
    a, b, resultx, resulty, i, j, q, t: inteiro
