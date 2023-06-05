@@ -16,15 +16,19 @@ inicio
 C <- 1
 TN <- 0
 repita
+    
     escreva("DIGITE UM NUMERO: ")
     leia(N)
     escreval(N)
+    
     se(N < 0) entao
-        TN <- TN + 1
-        
+        TN <- TN + 1    
     fimse
+    
     C <- C + 1
+
 ate(C > 5)
+
 escreval("FORAM DIGITADOS: ", TN, " VALORES NEGATIVOS")
 
 fimalgoritmo
