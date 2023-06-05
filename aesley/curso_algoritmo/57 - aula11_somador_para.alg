@@ -1,4 +1,4 @@
-algoritmo "Nome do Programa"
+algoritmo "SOMADOR PARA"
 // --------------------------------------------------
 // Disciplina  : [Linguagem e Lógica de Programação]
 // Professor   : [Gustavo Guanabara]
@@ -9,13 +9,16 @@ algoritmo "Nome do Programa"
 // --------------------------------------------------
 var
 
-C: inteiro
+C, N, S: inteiro
 
 inicio
-C <- 10
-para C de 10 ate 1 faca
-    
-    escreval (C)
+C <- 1
+S <- 0
+para C de 1 ate 5 faca
+    escreva("DIGITE UM VALOR: ")
+    leia(N)
+    escreval(N)
+    S <- S + N
 fimpara
-
+escreval("O VALOR DA SOMA DOS NUMEROS É:",S)
 fimalgoritmo
