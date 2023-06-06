@@ -1,4 +1,4 @@
-algoritmo "jogoVelha"
+algoritmo "jogodaVelha"
 
 var
   v: vetor[1..3, 1..3] de Caractere
