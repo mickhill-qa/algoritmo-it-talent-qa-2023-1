@@ -1,9 +1,12 @@
 algoritmo "ANALISADOR DE VALORES"
-// Disciplina  :  [Linguagem e Lógica de Programação]
-// Professor   : [Nome do Professor]
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : DATA_ATUAL/MES_ATUAL/ANO_ATUAL
+// --------------------------------------------------
+// Disciplina  : [Linguagem e Lógica de Programação]
+// Professor   : [Gustavo Guanabara]
+// Conteúdo    : [Estrutura de repetição 3 aula 11 ]
+// Descrição   : [Entender estruturas de repetição 3]
+// Autor(a)    : [Aesley Soares]
+// Data atual  : [05/06/2023]
+// --------------------------------------------------
 var
   Valor, Cont, Sm, Divpor5, Nulos, Somap: Inteiro
   Med: Real
