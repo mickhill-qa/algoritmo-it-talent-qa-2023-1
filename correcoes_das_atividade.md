@@ -237,6 +237,7 @@
     1. [Faca uma calculadora simple;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/22)
 
 - Desafios praticos
+    1. [Fazer todas as atividades do curso do guanabara separando-as por commit e entregar com um pull-request;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/54)
     1. [Fazer a funcao de Fibonacci e todos os testes ok até sexta antes da mentoria;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/78)
 
 
