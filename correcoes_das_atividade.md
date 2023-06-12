@@ -140,7 +140,7 @@
     1. [Faca uma calculadora simple;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/114)
 
 - Desafios praticos
-    1. [Fazer a funcao de Fibonacci e todos os testes ok até sexta antes da mentoria;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/116)
+    1. [Fazer a funcao de Fibonacci;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/116)
 
 
 
@@ -148,9 +148,10 @@
 ### Larissa
 - Excercicios praticos
     1. [Faca um "Ola mundo!" em portugol;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/74)
+    1. [Faca uma calculadora simple](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/138) ( -1 | Dois dias de atraso );
 
 - Desafios praticos
-    1. [Fazer a funcao de Fibonacci e todos os testes ok até sexta antes da mentoria;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/122)
+    1. [Fazer a funcao de Fibonacci;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/122)
 
 
 
