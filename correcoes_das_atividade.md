@@ -19,6 +19,7 @@
     1. [Faca uma calculadora simple](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/6) - 9 ( -1 | Dois exercicios em um PR )
 
 - Desafios praticos
+    1. [Fazer as atividades do guanabara](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/112) -  10  ( Atividades: 65 )
     1. [Fazer a funcao de Fibonacci](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/83) - 10
 
 
