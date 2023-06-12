@@ -82,6 +82,7 @@
     1. [Faca uma calculadora simple](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/25) - 10
 
 - Desafios praticos
+    1. [Fazer as atividades do guanabara](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/125) -  4,61  ( Atividades: 30 )
 
 
 
