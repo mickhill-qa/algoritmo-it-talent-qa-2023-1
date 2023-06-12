@@ -2,23 +2,23 @@
 
 ---
 ### Aesley
-- Excercicios praticos ( -1 | Dois exercicios em um PR )
+- Excercicios praticos
     1. [Faca um "Ola mundo!" em portugol;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/18)
-    1. [Faca uma calculadora simple;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/64)
+    1. [Faca uma calculadora simple;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/64) ( -1 | Dois exercicios em um PR );
 
 - Desafios praticos
-    1. [Fazer a funcao de Fibonacci e todos os testes ok até sexta antes da mentoria;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/64)
+    1. [Fazer a funcao de Fibonacci](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/64) ( -1 | Dois exercicios em um PR );
 
 
 
 ---
 ### Albert
-- Excercicios praticos ( -1 | Dois exercicios em um PR )
-    1. [Faca um "Ola mundo!" em portugol;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/6)
-    1. [Faca uma calculadora simple;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/6)
+- Excercicios praticos
+    1. [Faca um "Ola mundo!" em portugol](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/6) ( -1 | Dois exercicios em um PR );
+    1. [Faca uma calculadora simple;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/6) ( -1 | Dois exercicios em um PR );
 
 - Desafios praticos
-    1. [Fazer a funcao de Fibonacci e todos os testes ok até sexta antes da mentoria;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/83)
+    1. [Fazer a funcao de Fibonacci;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/83)
 
 
 
@@ -29,7 +29,7 @@
     1. [Faca uma calculadora simple;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/29)
 
 - Desafios praticos
-    1. [Fazer a funcao de Fibonacci e todos os testes ok até sexta antes da mentoria;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/123)
+    1. [Fazer a funcao de Fibonacci;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/123)
 
 
 
@@ -56,7 +56,7 @@
     1. [Faca uma calculadora simple;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/37)
 
 - Desafios praticos
-    1. [Fazer a funcao de Fibonacci e todos os testes ok até sexta antes da mentoria;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/117)
+    1. [Fazer a funcao de Fibonacci;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/117)
 
 
 
@@ -67,7 +67,7 @@
     1. [Faca uma calculadora simple;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/24)
 
 - Desafios praticos
-    1. [Fazer a funcao de Fibonacci e todos os testes ok até sexta antes da mentoria;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/76)
+    1. [Fazer a funcao de Fibonacci;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/76)
 
 
 
@@ -88,7 +88,7 @@
     1. [Faca uma calculadora simple;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/21)
 
 - Desafios praticos
-    1. [Fazer a funcao de Fibonacci e todos os testes ok até sexta antes da mentoria;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/79)
+    1. [Fazer a funcao de Fibonacci;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/79)
 
 
 
@@ -100,7 +100,7 @@
 
 - Desafios praticos
     1. [Fazer todas as atividades do curso do guanabara separando-as por commit e entregar com um pull-request;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/121)
-    1. [Fazer a funcao de Fibonacci e todos os testes ok até sexta antes da mentoria;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/75)
+    1. [Fazer a funcao de Fibonacci;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/75)
 
 
 
@@ -111,7 +111,7 @@
     1. [Faca uma calculadora simple;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/28)
 
 - Desafios praticos
-    1. [Fazer a funcao de Fibonacci e todos os testes ok até sexta antes da mentoria;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/113)
+    1. [Fazer a funcao de Fibonacci;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/113)
 
 
 
@@ -122,7 +122,7 @@
     1. [Faca uma calculadora simple;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/67)
 
 - Desafios praticos
-    1. [Fazer a funcao de Fibonacci e todos os testes ok até sexta antes da mentoria;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/90)
+    1. [Fazer a funcao de Fibonacci;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/90)
 
 
 
@@ -169,7 +169,7 @@
     1. [Faca uma calculadora simple;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/26)
 
 - Desafios praticos
-    1. [Fazer a funcao de Fibonacci e todos os testes ok até sexta antes da mentoria;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/120)
+    1. [Fazer a funcao de Fibonacci;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/120)
 
 
 
@@ -201,7 +201,7 @@
     1. [Faca uma calculadora simple;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/35)
 
 - Desafios praticos
-    1. [Fazer a funcao de Fibonacci e todos os testes ok até sexta antes da mentoria;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/73)
+    1. [Fazer a funcao de Fibonacci;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/73)
 
 
 
@@ -226,7 +226,7 @@
     1. [Faca uma calculadora simple;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/32)
 
 - Desafios praticos
-    1. [Fazer a funcao de Fibonacci e todos os testes ok até sexta antes da mentoria;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/85)
+    1. [Fazer a funcao de Fibonacci;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/85)
 
 
 
@@ -237,7 +237,7 @@
     1. [Faca uma calculadora simple;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/23)
 
 - Desafios praticos
-    1. [Fazer a funcao de Fibonacci e todos os testes ok até sexta antes da mentoria;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/118)
+    1. [Fazer a funcao de Fibonacci;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/118)
 
 
 
@@ -249,7 +249,7 @@
 
 - Desafios praticos
     1. [Fazer todas as atividades do curso do guanabara separando-as por commit e entregar com um pull-request;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/54)
-    1. [Fazer a funcao de Fibonacci e todos os testes ok até sexta antes da mentoria;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/78)
+    1. [Fazer a funcao de Fibonacci;](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/78)
 
 
 
