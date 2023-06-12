@@ -1,4 +1,4 @@
-algoritmo "ALUNO APROVADO OU REPROVADO"
+algoritmo "Aluno Aprovado Ou Reprovado"
 
 var
 

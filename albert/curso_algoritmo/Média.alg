@@ -1,4 +1,4 @@
-algoritmo "PRÁTICA 01"
+algoritmo "Média"
 
 var
     x,y : inteiro
