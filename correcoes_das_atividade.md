@@ -161,6 +161,7 @@
     1. [Faca uma calculadora simple](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/138) - 9 ( -1 | Dois dias de atraso )
 
 - Desafios praticos
+    1. [Fazer as atividades do guanabara](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/134) - 7 ( Atividades: 65+ em 4 commits )
     1. [Fazer a funcao de Fibonacci](https://github.com/mickhill-qa/algoritmo-it-talent-qa-2023-1/pull/122) - 10
 
 
